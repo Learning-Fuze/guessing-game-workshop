@@ -1,0 +1,43 @@
+h1 {
+  font-weight: 400;
+}
+
+.d-flex {
+  display: flex;
+}
+
+.flex-column {
+  flex-direction: column;
+}
+
+.justify-content-center {
+  justify-content: center;
+}
+
+.align-items-center {
+  align-items: center;
+}
+
+.container {
+  height: 97vh;
+}
+
+.mb-1-5 {
+  margin-bottom: 1.5rem;
+}
+
+.p-1 {
+  padding: 1rem;
+}
+
+.fs-1-2 {
+  font-size: 1.2rem;
+}
+
+.fs-3 {
+  font-size: 3rem;
+}
+
+.center-text {
+  text-align: center;
+}
